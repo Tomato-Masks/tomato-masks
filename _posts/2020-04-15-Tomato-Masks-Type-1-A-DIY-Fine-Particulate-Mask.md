@@ -40,7 +40,7 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 The current design consists of an inner layer and an outer layer, all made out of 100% cotton fabric. The mask has two levels of facial adjustment and three bands to allow for a snug fitting.
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-1.png){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/concept.png){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -48,7 +48,7 @@ The current design consists of an inner layer and an outer layer, all made out o
 </p>
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-2.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/fullmask.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -64,7 +64,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-3.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-14b.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -72,7 +72,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 </p>
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-4.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-15.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -86,7 +86,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the first layer and also stabilizes the inner layer.The outer layer has two embedded elastic bands that enable tighter fitting. 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-5.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-12c.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -182,19 +182,19 @@ If you have a printer, you can download and print the provided stencils from [Ap
 #### Fitting Mechanism
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-6.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/preparation-noseclamp.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 1. Expand a large paper clip as shown above and wrap it in aluminum foil. Alternatively, use a piece of wire about 10-15 cm long.
 </P>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-7.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/aluminum-foil.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 2. Roll a letter size paper (~ 27 cm x 21.0 cm) aluminum foil along its length. The end result should be 0.8 cm - 1.0 cm thick and 21.0 cm long. This will be embedded into the fabric of the mask’s inner layer to assist with facial fitting.
 </p>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-8.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/fabric-stripe-preparation.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. <strong>(Alternatively, if you have knit elastic bands, use them)</strong>
@@ -215,21 +215,49 @@ In this segment, there are **two options**:
     <tr>
         <td style="width:400px">
             <img class="tbl" src="/images/type1v04/v04-inner-15.jpg">
+            <br>
             This is the desired outcome.
         </td>
         <td style="width:400px">
             <img class="tbl"  src="/images/type1v04/v04-inner-1.jpg">
+            <br>
             1. Cut the 100% cotton fabric into a rectangle based on the selected size (e.g. Large: 27 cm x 21 cm)
         </td>
     </tr>
     <tr>
         <td>
             <img class="tbl"  src="/images/type1v04/v04-inner-2.jpg">
+            <br>
             2. Fold the rectangle in half along the length
         </td>
         <td>
             <img class="tbl"  src="/images/type1v04/v04-inner-3.jpg">
+            <br>
             3. Fold the rectangle in half again along the height
+        </td>
+    </tr>
+    <tr>
+        <td style="width:400px">
+            <img class="tbl" src="/images/type1v04/v04-inner-4.jpg">
+            <br>
+            4. Mark a 4 cm x 4 cm square at the corner where the sides are folded.
+        </td>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-inner-5b.jpg">
+            <br>
+            5. Cut the square with a pair of scissors.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-6.jpg">
+            <br>
+            6. Unfold the fabric and the result should be a square shaped hole.
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-7.jpg">
+            <br>
+            7. Sew the designated areas (~ 3-4 cm sew line is sufficient).
         </td>
     </tr>
 </table>
