@@ -4,6 +4,25 @@ title: "Tomato Masks Type 1: A \"Do It Yourself\" Fine Particulate Mask"
 ---
 
 
+<html>
+<head>
+<style>
+table, th, td {
+  border: 0px solid black;
+}
+
+th, td {
+  padding: 10px;
+}
+
+img {
+  width: 400;
+  height: 301px;
+}
+</style>
+</head>
+</html>
+
 **Disclaimer**
 
 This is a ‘Do It Yourself’ open source mask and we are not liable or responsible in regards to its performance or characteristics or how it is used. Build and use this at your own risks. 
@@ -21,7 +40,7 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 The current design consists of an inner layer and an outer layer, all made out of 100% cotton fabric. The mask has two levels of facial adjustment and three bands to allow for a snug fitting.
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-1.png){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-1.png){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -29,7 +48,7 @@ The current design consists of an inner layer and an outer layer, all made out o
 </p>
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-2.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-2.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -45,7 +64,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-3.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-3.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -53,7 +72,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 </p>
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-4.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-4.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -67,7 +86,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the first layer and also stabilizes the inner layer.The outer layer has two embedded elastic bands that enable tighter fitting. 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-5.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-5.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -163,26 +182,68 @@ If you have a printer, you can download and print the provided stencils from [Ap
 #### Fitting Mechanism
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-6.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-6.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 1. Expand a large paper clip as shown above and wrap it in aluminum foil. Alternatively, use a piece of wire about 10-15 cm long.
 </P>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-7.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-7.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 2. Roll a letter size paper (~ 27 cm x 21.0 cm) aluminum foil along its length. The end result should be 0.8 cm - 1.0 cm thick and 21.0 cm long. This will be embedded into the fabric of the mask’s inner layer to assist with facial fitting.
 </p>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1-8.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/type1-8.jpg){: width="450px"}
 </p>
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. <strong>(Alternatively, if you have knit elastic bands, use them)</strong>
 </p>
 
+## Inner Layer
+
+In this segment, there are **two options**:
+
+1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires printer). **
+
+2. Use layouts from [Appendix 1](#bookmark=id.nf6fiv5jk2ju) and draw the layout onto fabric manually and then use it as a guide to cut. 
 
 
 
 
+<table align="center" style="text-align:left; width: 900">
+    <tr>
+        <td style="width:400px">
+            <img src="/images/type1v04/v04-inner-15.jpg">
+            This is the desired outcome.
+        </td>
+        <td style="width:400px">
+            <img src="/images/type1v04/v04-inner-1.jpg">
+            1. Cut the 100% cotton fabric into a rectangle based on the selected size (e.g. Large: 27 cm x 21 cm)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/images/type1v04/v04-inner-2.jpg">
+            2. Fold the rectangle in half along the length
+        </td>
+        <td>
+            <img src="/images/type1v04/v04-inner-3.jpg">
+            3. Fold the rectangle in half again along the height
+        </td>
+    </tr>
+</table>
 
+<html>
+<head>
+<style>
+table, th, td {
+  border: 0px solid black;
+}
+
+th, td {
+  padding: 10px;
+}
+</style>
+</head>
+</html>
