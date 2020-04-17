@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are a team dedicated to development of open source fine particulate masks
 
-### More Information
+We use science and engineering to research and devleop open source masks that can help with filtration of fine particles. We strive to empirically validate our designs and we invite those interested to join our team.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact Us
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[info@tomatomasks](mailto:asgari_parsian@hotmail.com)
