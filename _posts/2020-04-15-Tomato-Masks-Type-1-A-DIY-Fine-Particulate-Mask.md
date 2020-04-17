@@ -40,7 +40,7 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 The current design consists of an inner layer and an outer layer, all made out of 100% cotton fabric. The mask has two levels of facial adjustment and three bands to allow for a snug fitting.
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/concept.png){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/concept.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -64,7 +64,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-14b.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-11.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -72,7 +72,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 </p>
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-15.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-12.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -214,7 +214,7 @@ In this segment, there are **two options**:
 <table align="center" style="text-align:left; width: 900">
     <tr>
         <td style="width:400px">
-            <img class="tbl" src="/images/type1v04/v04-inner-15.jpg">
+            <img class="tbl" src="/images/type1v04/v04-inner-12.jpg">
             <br>
             This is the desired outcome.
         </td>
@@ -260,6 +260,29 @@ In this segment, there are **two options**:
             7. Sew the designated areas (~ 3-4 cm sew line is sufficient).
         </td>
     </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-8.jpg">
+            <br>
+            8. Insert the folded aluminum bar from either top corners. 
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/inner-layer-fabric-guide.jpg">
+            <br>
+            8.1. Centre the folded aluminum bar as shown above.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            9. In this step, the fabric needs to be folded like an Accordion as shown below:
+            <br>
+            <br>
+            <p align="center">
+            <img src="/images/type1v04/v04-inner-9.jpg">
+            </p>
+        </td>
+    </tr>
+    
 </table>
 
 <html>
