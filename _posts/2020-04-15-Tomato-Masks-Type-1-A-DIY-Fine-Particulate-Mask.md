@@ -204,7 +204,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
 In this segment, there are **two options**:
 
-1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires printer). **
+1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires a printer).**
 
 2. Use layouts from [Appendix 1](#bookmark=id.nf6fiv5jk2ju) and draw the layout onto fabric manually and then use it as a guide to cut. 
 
@@ -276,10 +276,36 @@ In this segment, there are **two options**:
         <td colspan="2">
             9. In this step, the fabric needs to be folded like an Accordion as shown below:
             <br>
-            <br>
             <p align="center">
             <img src="/images/type1v04/v04-inner-9.jpg">
             </p>
+            <br>
+            In the next step:
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-10.jpg">
+            <br>
+            10. Sew both ends of the folded fabric as shown. 
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-11.jpg">
+            <br>
+            11. Attach a 1 cm x 30 cm strip to both left and right end. Attach the strips on the top of the rim as shown above.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            12. Expand the inner layer by pulling the top and bottom rims. This is the expected result for the mask’s inner layer: 
+            <br>
+            <br>
+            <p align="center">
+            <img src="/images/type1v04/v04-inner-12.jpg" width="450px">
+            </p>
+            <br>
+            Later, a disposable filter will be placed inside this layer to cover the square hole.
         </td>
     </tr>
     
