@@ -15,7 +15,7 @@ th, td {
   padding: 10px;
 }
 
-img {
+img.tbl {
   width: 400;
   height: 301px;
 }
@@ -214,21 +214,21 @@ In this segment, there are **two options**:
 <table align="center" style="text-align:left; width: 900">
     <tr>
         <td style="width:400px">
-            <img src="/images/type1v04/v04-inner-15.jpg">
+            <img class="tbl" src="/images/type1v04/v04-inner-15.jpg">
             This is the desired outcome.
         </td>
         <td style="width:400px">
-            <img src="/images/type1v04/v04-inner-1.jpg">
+            <img class="tbl"  src="/images/type1v04/v04-inner-1.jpg">
             1. Cut the 100% cotton fabric into a rectangle based on the selected size (e.g. Large: 27 cm x 21 cm)
         </td>
     </tr>
     <tr>
         <td>
-            <img src="/images/type1v04/v04-inner-2.jpg">
+            <img class="tbl"  src="/images/type1v04/v04-inner-2.jpg">
             2. Fold the rectangle in half along the length
         </td>
         <td>
-            <img src="/images/type1v04/v04-inner-3.jpg">
+            <img class="tbl"  src="/images/type1v04/v04-inner-3.jpg">
             3. Fold the rectangle in half again along the height
         </td>
     </tr>
