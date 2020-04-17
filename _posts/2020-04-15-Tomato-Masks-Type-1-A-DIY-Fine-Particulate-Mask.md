@@ -76,9 +76,9 @@ The main filtering is done through the outer layer. The outer layer helps  to fu
 
 
 
-# Fabrication Instructions
+## Fabrication Instructions
 
-## Overview
+### Overview
 
 The building instructions are broken down into:
 
@@ -102,15 +102,15 @@ The building instructions are broken down into:
 
 5. Filter Installation
 
-## Preparation
+### Preparation
 
-### Size Selection
+#### Size Selection
 
 There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](#bookmark=id.uoh3stp4by0c). 
 
 If you have a printer, you can download and print the provided stencils from [Appendix 3](#bookmark=id.99s8jhnb54wy). Otherwise, you can refer to the design diagrams from [Appendix 2](#bookmark=id.nf6fiv5jk2ju).
 
-### Materials
+#### Materials
 
 1. 100% Cotton Fabric
 
@@ -152,7 +152,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
     * Shoe laces (2x 30 cm long strips + 2 x 60 cm long strips)
 
-### Tools
+#### Tools
 
 1. Sewing needle and strand (**Optional:** If sewing machine is available, then use sewing machine)
 
@@ -160,5 +160,34 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
 3. Scissors
 
-### Fitting Mechanism
+#### Fitting Mechanism
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-6.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>1. Expand a large paper clip as shown above and wrap it in aluminum foil. Alternatively, use a piece of wire about 10-15 cm long.</strong>
+</p>
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-7.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>2. Roll a letter size paper (~ 27 cm x 21.0 cm) aluminum foil along its length. The end result should be 0.8 cm - 1.0 cm thick and 21.0 cm long. This will be embedded into the fabric of the mask’s inner layer to assist with facial fitting.</strong>
+</p>
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-8.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. (Alternatively, if you have knit elastic bands, use them)</strong>
+</p>
+
+
+
+
+
 
