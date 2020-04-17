@@ -1,9 +1,8 @@
 ---
-published: false
+layout: post
+title: "Tomato Masks Type 1: A \"Do It Yourself\" Fine Particulate Mask"
 ---
-**Tomato Mask Type 1:**
 
-**A "Do It Yourself" Fine Particulate Mask**
 
 **Disclaimer**
 
@@ -21,15 +20,22 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 
 The current design consists of an inner layer and an outer layer, all made out of 100% cotton fabric. The mask has two levels of facial adjustment and three bands to allow for a snug fitting.
 
-![total-design-lower-res.png]({{site.baseurl}}/_posts/total-design-lower-res.png)
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-1.png){: width="450px"}
+</p>
 
-**Fig 1: Concept - 100% Cotton Fine Particulate Mask**
+<p style="text-align: center;">
+<strong>Fig 1: Concept - 100% Cotton Fine Particulate Mask</strong>
+</p>
 
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-2.jpg){: width="450px"}
+</p>
 
+<p style="text-align: center;">
+<strong>Fig 2: Actual - 100% Cotton Fine Particulate Mask</strong>
+</p>
 
-![full mask.jpg]({{site.baseurl}}/_posts/full mask.jpg)
-
-**Fig 2: Actual - 100% Cotton Fine Particulate Mask**
 
 
 
@@ -37,15 +43,22 @@ The current design consists of an inner layer and an outer layer, all made out o
 
 An adjustable inner layer helps with the mask’s fitting to the shape of the face. The layer provides a tighter fit  in conjunction with the outer layer. This layer has a pair of elastic bands made from 100% cotton. In addition, this layer acts as housing to hold an additional filter.
 
-![v04-inner-14b.jpg]({{site.baseurl}}/_posts/v04-inner-14b.jpg)
 
-**Fig 3a: Inner Layer -Top View (Red box: folded aluminum foil with size of 21 cm x 1 cm )**
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-3.jpg){: width="450px"}
+</p>
 
+<p style="text-align: center;">
+<strong>Fig 3a: Inner Layer Folded</strong>
+</p>
 
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-4.jpg){: width="450px"}
+</p>
 
-![v04-inner-15.jpg]({{site.baseurl}}/_posts/v04-inner-15.jpg)
-
-**Fig 3b: Expanded Inner Layer - Inside View**
+<p style="text-align: center;">
+<strong>Fig 3b: Inner Layer Expanded</strong>
+</p>
 
 
 
@@ -53,9 +66,13 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the first layer and also stabilizes the inner layer.The outer layer has two embedded elastic bands that enable tighter fitting. 
 
-![v04-12c.JPG]({{site.baseurl}}/_posts/v04-12c.JPG)
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1-5.jpg){: width="450px"}
+</p>
 
-**Fig 4: Outer Layer**
+<p style="text-align: center;">
+<strong>Fig 4: Outer Layer</strong>
+</p>
 
 
 
