@@ -453,6 +453,17 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/v04-filterinstalled.jpg){: width="450px"}
 </p>
-<p style="text-align: center;" width: "450px">
-<strong>Fig 5: Paper towel is used as a disposable secondary filter inside the inner layer.</strong>
+<br>
+<p style="text-align: center;">
+<strong width="450px">Fig 5: Paper towel is used as a disposable secondary filter inside the inner layer.</strong>
+</p>
+
+# Wearing Instructions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-final.jpg){: width="450px"}
+</p>
+<br>
+<p style="text-align: center;">
+<strong width="450px">1. Place the mask on the face and adjust the upper rim of the inner layer to conform to your face geometry.</strong>
 </p>
