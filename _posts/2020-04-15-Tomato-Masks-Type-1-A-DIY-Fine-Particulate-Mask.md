@@ -311,16 +311,98 @@ In this segment, there are **two options**:
     
 </table>
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 0px solid black;
-}
 
-th, td {
-  padding: 10px;
-}
-</style>
-</head>
-</html>
+### Outer Layer
+
+In this segment, there are **two options**:
+
+1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
+
+2. Use layouts from [Appendix 1](#bookmark=id.nf6fiv5jk2ju) and draw the layout onto fabric manually and then use it as a guide to cut. In this case, **proceed from step 1.**
+
+<table align="center" style="text-align:left; width: 900">
+    <tr>
+        <td style="width:400px">
+            <img class="tbl" src="/images/type1v04/v04-12.jpg">
+            <br>
+            1. Draw the desired pattern from Appendix 1.2 onto a paper (e.g. letter size). You should have an outer hexagon pattern and an inner hexagon pattern with a gap of 2-2.5 cm.
+        </td>
+        <td style="width:400px">
+            <img class="tbl" src="/images/type1v04/v04-1.jpg">
+            <br>
+            1. Draw the desired pattern from Appendix 1.2 onto a paper (e.g. letter size). You should have an outer hexagon pattern and an inner hexagon pattern with a gap of 2-2.5 cm.
+        </td>
+    </tr>
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-2.jpg">
+            <br>
+            2. Cut out the excess as shown above. The idea here is to fold the outer hexagon inward along the inner hexagon’s sides. This will create a loop to pass through elastic strands.
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-3.jpg">
+            <br>
+            3. Trace the outer hexagon onto the 100% cotton fabric. Use the cutted paper as a guide by placing the cut out onto the fabric and draw around it using a marker.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-4.jpg">
+            <br>
+            4. Draw the inner hexagon. You can start by folding along an inner hexagon’s side and drawing a line along it. Then repeat this process one side at the time.
+        </td>
+        <td style="width:400px">
+            <img class="tbl" src="/images/type1v04/v04-5.jpg">
+            <br>
+            5. You should be left with a pattern like this. An outer hexagon and an inner hexagon with 2.5 cm gap between the two.
+        </td>
+    </tr>
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-6.jpg">
+            <br>
+            6. Cut the fabric along the outer hexagon’s sides.
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-7.jpg">
+            <br>
+            7. Draw triangles on the outside of every inner hexagon vertex. Feel free to make them wider. This will be used as a cutting guide in the next step.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-8.jpg">
+            <br>
+            8. Cut out these triangles. I recommend making them wider if your straps are wider than a 1 cm. 
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-9.jpg">
+            <br>
+            9. Place the two 60 cm x 1 cm 100% cotton strips on the upper and bottom edges of the hexagon. We are going to fold over the outer edges (flaps) along the inner hexagon and sew them onto the fabric. This will create a “tunnel” for the strips to pass through freely.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-10.jpg">
+            <br>
+            10. Fold over the top right edge (flap) and sew it to the fabric without sewing the stripe. Then Skip the top centre flap and sew the other flaps to the fabric without sewing the stripe.
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-11.jpg">
+            <br>
+            11. Place the wrapped paper clip at top as shown and stitch the top flap onto the fabric.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-12.jpg">
+            <br>
+            12. The result should look like this. 
+        </td>
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-12c.jpg">
+            <br>
+            <b>Optional:</b> You can also hide the remaining portions of the wrapped paperclip by sliding them under the neighboring flaps as shown above.
+        </td>        
+    </tr>
+</table>
