@@ -334,7 +334,7 @@ In this segment, there are **two options**:
         </td>
     </tr>
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-2.jpg">
             <br>
             2. Cut out the excess as shown above. The idea here is to fold the outer hexagon inward along the inner hexagon’s sides. This will create a loop to pass through elastic strands.
@@ -406,3 +406,35 @@ In this segment, there are **two options**:
         </td>        
     </tr>
 </table>
+
+### Layer Integration
+
+It is time to integrate the two layers:
+
+<table align="center" style="text-align:left; width: 900">
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-13.jpg">
+            <br>
+            1. Cut out two, 1 cm wide holes, on both left and right sides of the outer shell, midway between top and bottom strips.
+        </td>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-14.jpg">
+            <br>
+            2. Pass through the two strips from the inner shell on both left and right openings. Please note that the embedded folded aluminum piece should face up and should line up with the paper clip nose clamp of the outer shell.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            3. The final result should look like this: 
+            <br>
+            <br>
+            <p align="center">
+            <img src="/images/type1v04/fullmask.jpg" width="450px">
+            </p>
+            <br>
+            Later, a disposable filter will be placed inside this layer to cover the square hole.
+        </td>
+    </tr>
+</table>
+
