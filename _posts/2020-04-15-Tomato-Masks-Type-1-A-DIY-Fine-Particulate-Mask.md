@@ -42,15 +42,15 @@ The current design consists of an inner layer and an outer layer, all made out o
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/concept.jpg){: width="450px"}
 </p>
-
+<br>
 <p style="text-align: center;">
 <strong>Fig 1: Concept - 100% Cotton Fine Particulate Mask</strong>
 </p>
-
+<br>
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/fullmask.jpg){: width="450px"}
 </p>
-
+<br>
 <p style="text-align: center;">
 <strong>Fig 2: Actual - 100% Cotton Fine Particulate Mask</strong>
 </p>
@@ -66,15 +66,15 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-11.jpg){: width="450px"}
 </p>
-
+<br>
 <p style="text-align: center;">
 <strong>Fig 3a: Inner Layer Folded</strong>
 </p>
-
+<br>
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/v04-inner-12.jpg){: width="450px"}
 </p>
-
+<br>
 <p style="text-align: center;">
 <strong>Fig 3b: Inner Layer Expanded</strong>
 </p>
@@ -433,8 +433,26 @@ It is time to integrate the two layers:
             <img src="/images/type1v04/fullmask.jpg" width="450px">
             </p>
             <br>
-            Later, a disposable filter will be placed inside this layer to cover the square hole.
+            In the next step, the secondary filter will be inserted.
         </td>
     </tr>
 </table>
 
+### Disposable Filter Insertion
+
+Use any of the followings materials:
+<ul>
+    <li>Paper towel </li>
+    <li>Microfiber (better alternative than paper towel) </li>
+    <li>PM0.3 HEPA filter (Ideal but rare) </li>
+    <li>Surgical mask </li>
+</ul>
+
+Fold them or cut them if necessary so that they can fit inside the inner layer. Use the inner layer’s rims as a means to stabilize the inserted filter. In the example below, a paper towel was folded in half first and the corners were folded again to better match the inner layer’s silhouette:
+<br>
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-filterinstalled.jpg){: width="450px"}
+</p>
+<p style="text-align: center;" width: "450px">
+<strong>Fig 5: Paper towel is used as a disposable secondary filter inside the inner layer.</strong>
+</p>
