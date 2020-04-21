@@ -310,8 +310,7 @@ In this segment, there are **two options**:
     </tr>
     
 </table>
-
-
+<br>
 ### Outer Layer
 
 In this segment, there are **two options**:
@@ -406,7 +405,7 @@ In this segment, there are **two options**:
         </td>        
     </tr>
 </table>
-
+<br>
 ### Layer Integration
 
 It is time to integrate the two layers:
@@ -437,7 +436,7 @@ It is time to integrate the two layers:
         </td>
     </tr>
 </table>
-
+<br>
 ### Disposable Filter Insertion
 
 Use any of the followings materials:
@@ -457,15 +456,15 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <p style="text-align: center;">
 <strong width="450px">Fig 5: Paper towel is used as a disposable secondary filter inside the inner layer.</strong>
 </p>
-
-# Wearing Instructions
-
+<br>
+## Wearing Instructions
+<br>
 <p align="center">
     ![_config.yml]({{site.baseurl}}/images/type1v04/fitting-v04-1.jpg){: width="450px"}
 </p>
 <br>
-<p style="text-align: center;">
-<strong width="450px">1. Place the mask on the face and adjust the upper rim of the inner layer to conform to your face geometry.</strong>
+<p style="text-align: center; max-width:600px; word-wrap:break-word; margin:0 auto">
+1. Place the mask on the face and adjust the upper rim of the inner layer to conform to your face geometry.
 </p>
 <br>
 <table align="center" style="text-align:left; width: 900">
@@ -483,6 +482,32 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
             <img class="tbl"  src="/images/type1v04/fitting-v04-3.jpg">
             <br>
             2. Pass through the two strips from the inner shell on both left and right openings. Please note that the embedded folded aluminum piece should face up and should line up with the paper clip nose clamp of the outer shell.
+        </td>
+    </tr>
+</table>
+
+## Fit Checking Instructions
+
+It is now time to check the goodness of fit:
+<br>
+<table align="center" style="text-align:left; width: 900">
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-test-nose-grip-top.jpg">
+            <br>
+            1. Nose: Ensure tight fitting around the nose area by the outer layer as well as the inner layer. Use the nose clamp and top bands/straps to achieve snug fit.
+        </td>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/v04-test-upper neck.jpg">
+            <br>
+            2. Jaw Line: Ensure tight fitting just below the jaw line. The bottom bands/straps can be adjusted to achieve snug fit.
+        </td>
+    </tr>
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/fitting-v04-2b.jpg">
+            <br>
+            3. Sides: Ensure snug fitting through adjustment of middle bands/straps.
         </td>
     </tr>
 </table>
