@@ -461,9 +461,28 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 # Wearing Instructions
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-final.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/fitting-v04-1.jpg){: width="450px"}
 </p>
 <br>
 <p style="text-align: center;">
 <strong width="450px">1. Place the mask on the face and adjust the upper rim of the inner layer to conform to your face geometry.</strong>
 </p>
+<br>
+<table align="center" style="text-align:left; width: 900">
+    <tr>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/fitting-v04-2.jpg">
+            <br>
+            3. Wrap the top band around the top of your ears.
+            <br>
+            4. Wrap the middle band just beneath your ears.
+            <br>
+            5. Wrap the bottom bands so that they go around the back of the neck.
+        </td>
+        <td style="width:400px">
+            <img class="tbl"  src="/images/type1v04/fitting-v04-3.jpg">
+            <br>
+            2. Pass through the two strips from the inner shell on both left and right openings. Please note that the embedded folded aluminum piece should face up and should line up with the paper clip nose clamp of the outer shell.
+        </td>
+    </tr>
+</table>
