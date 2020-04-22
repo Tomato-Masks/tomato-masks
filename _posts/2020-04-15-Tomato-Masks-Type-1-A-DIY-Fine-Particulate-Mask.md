@@ -19,6 +19,24 @@ img.tbl {
   width: 400;
   height: 301px;
 }
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
 </style>
 </head>
 </html>
@@ -28,12 +46,14 @@ img.tbl {
 This is a ‘Do It Yourself’ open source mask and we are not liable or responsible in regards to its performance or characteristics or how it is used. Build and use this at your own risks. 
 
 **NOTE: This is not a respirator.**
-
+<br>
 **WARNING: Masks can be dangerous to people with respiratory or heart problems.**
-
+<br>
+<br>
 **Table of Contents**
 
-[[TOC]]
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Design Overview
 
@@ -125,9 +145,9 @@ The building instructions are broken down into:
 
 #### Size Selection
 
-There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](#bookmark=id.uoh3stp4by0c). 
+There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes). 
 
-If you have a printer, you can download and print the provided stencils from [Appendix 3](#bookmark=id.99s8jhnb54wy). Otherwise, you can refer to the design diagrams from [Appendix 2](#bookmark=id.nf6fiv5jk2ju).
+If you have a printer, you can download and print the provided stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils). Otherwise, you can refer to the design diagrams from [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout).
 
 #### Materials
 
@@ -175,7 +195,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
 1. Sewing needle and strand (**Optional:** If sewing machine is available, then use sewing machine)
 
-2. Ruler (Only If you cannot print the stencils from [Appendix 3](#bookmark=id.99s8jhnb54wy))
+2. Ruler (Only If you cannot print the stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils))
 
 3. Scissors
 
@@ -204,9 +224,9 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
 In this segment, there are **two options**:
 
-1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires a printer).**
+1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer).**
 
-2. Use layouts from [Appendix 1](#bookmark=id.nf6fiv5jk2ju) and draw the layout onto fabric manually and then use it as a guide to cut. 
+2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes) and draw the layout onto fabric manually and then use it as a guide to cut. 
 
 
 
@@ -315,9 +335,9 @@ In this segment, there are **two options**:
 
 In this segment, there are **two options**:
 
-1. Use a provided stencil under [Appendix 2](#bookmark=id.99s8jhnb54wy), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
+1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
 
-2. Use layouts from [Appendix 1](#bookmark=id.nf6fiv5jk2ju) and draw the layout onto fabric manually and then use it as a guide to cut. In this case, **proceed from step 1.**
+2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes) and draw the layout onto fabric manually and then use it as a guide to cut. In this case, **proceed from step 1.**
 
 <table align="center" style="text-align:left; width: 900">
     <tr>
