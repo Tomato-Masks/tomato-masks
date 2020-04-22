@@ -86,7 +86,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the first layer and also stabilizes the inner layer.The outer layer has two embedded elastic bands that enable tighter fitting. 
 
 <p align="center">
-    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-12c.jpg){: width="450px"}
+    ![_config.yml]({{site.baseurl}}/images/type1v04/v04-12d.jpg){: width="450px"}
 </p>
 
 <p style="text-align: center;">
@@ -399,7 +399,7 @@ In this segment, there are **two options**:
             12. The result should look like this. 
         </td>
         <td>
-            <img class="tbl"  src="/images/type1v04/v04-12c.jpg">
+            <img class="tbl"  src="/images/type1v04/v04-12d.jpg">
             <br>
             <b>Optional:</b> You can also hide the remaining portions of the wrapped paperclip by sliding them under the neighboring flaps as shown above.
         </td>        
