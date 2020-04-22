@@ -554,7 +554,7 @@ Dimension Approx.
     ![_config.yml]({{site.baseurl}}/images/type1v04/Small-Inner-Layer.jpg){: width="450px"}
 </p>
 <p style="text-align: center;">
-<strong>Small Size - Inner Layer/strong>
+<strong>Small Size - Inner Layer</strong>
 </p>
 <br>
 
@@ -577,7 +577,7 @@ Dimension Approx.
     ![_config.yml]({{site.baseurl}}/images/type1v04/Medium-Inner-Layer.jpg){: width="450px"}
 </p>
 <p style="text-align: center;">
-<strong>Medium Size - Inner Layer/strong>
+<strong>Medium Size - Inner Layer</strong>
 </p>
 <br>
 
@@ -601,7 +601,7 @@ Dimension Approx.
     ![_config.yml]({{site.baseurl}}/images/type1v04/Large-Inner-Layer.jpg){: width="450px"}
 </p>
 <p style="text-align: center;">
-<strong>Large Size - Inner Layer/strong>
+<strong>Large Size - Inner Layer</strong>
 </p>
 <br>
 
