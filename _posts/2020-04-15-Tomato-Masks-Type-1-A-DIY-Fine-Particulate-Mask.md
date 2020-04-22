@@ -511,3 +511,129 @@ It is now time to check the goodness of fit:
         </td>
     </tr>
 </table>
+
+# Appendix
+
+### 1. Sizes
+
+Three sizes are provided for this mask, these are:
+
+<table align="center" style="text-align:left; width: 500">
+  <tr>
+    <td>Size</td>
+    <td>Small</td>
+    <td>Medium</td>
+    <td>Large
+    <br>(Reference)</td>
+  </tr>
+  <tr>
+    <td>Scale</td>
+    <td>80%</td>
+    <td>90%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Outer Layer
+Dimension Approx.
+<br>
+(Sideburns to Sideburns)</td>
+    <td>184 mm</td>
+    <td>207 mm</td>
+    <td>230 mm</td>
+  </tr>
+</table>
+
+
+### 2. Design Layout
+
+#### Small
+
+##### Inner Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Small-Inner-Layer.jpg){: width="450px"}
+</p>
+<p style="text-align: center;">
+<strong>Small Size - Inner Layer/strong>
+</p>
+<br>
+
+##### Outer Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Small-Stencil-Outer-Layer.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>Small Size - Outer Layer</strong>
+</p>
+<br>
+
+#### Medium
+
+##### Inner Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Medium-Inner-Layer.jpg){: width="450px"}
+</p>
+<p style="text-align: center;">
+<strong>Medium Size - Inner Layer/strong>
+</p>
+<br>
+
+##### Outer Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Medium-Stencil-Outer-Layer.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>Medium Size - Outer Layer</strong>
+</p>
+<br>
+
+### Large
+
+
+##### Inner Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Large-Inner-Layer.jpg){: width="450px"}
+</p>
+<p style="text-align: center;">
+<strong>Large Size - Inner Layer/strong>
+</p>
+<br>
+
+##### Outer Layer Dimensions
+
+<p align="center">
+    ![_config.yml]({{site.baseurl}}/images/type1v04/Large-Stencil-Outer-Layer.jpg){: width="450px"}
+</p>
+
+<p style="text-align: center;">
+<strong>Large Size - Outer Layer</strong>
+</p>
+<br>
+
+## 3. Stencils
+
+### Outer Layer Stencils
+
+#### Small
+
+* [Inner Layer](https://drive.google.com/open?id=10Lz3aHsrHnfFRWVW9IFxB9byU0HSGgMH)
+
+* [Outer Layer](https://drive.google.com/open?id=1eNi1BuFiiYwJXvtA4kQqsUnoWHmSbOon)
+
+#### Medium
+
+* [Inner Layer](https://drive.google.com/open?id=1W9s-lS_uFAN0qWvBW4cBSKMN9uBFYYW0)
+
+* [Outer Layer](https://drive.google.com/open?id=1oz8U-oPy7iwNiAhWQwwK-heE-JTD2RYW)
+
+#### Large
+
+* [Inner Layer](https://drive.google.com/open?id=1TuHjyXmdykdzQeIBjSN6OY8NoWtfKf1C)
+
+* [Outer Layer](https://drive.google.com/open?id=1Hqxc6CNDGhoYq0W-mhHmObZkBr8jPntV)
