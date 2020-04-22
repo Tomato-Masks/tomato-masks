@@ -18,7 +18,7 @@ th, td {
 img.tbl {
   width: 400px;
   height: 301px;
-  object-fit: scale-down;
+  //object-fit: scale-down;
 }
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
