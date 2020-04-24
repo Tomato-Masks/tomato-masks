@@ -64,6 +64,8 @@ img.tbl {
 </head>
 </html>
 
+The following instructions are generated from [Tomato Masks' Type 1 v0.5 design document.](https://github.com/Tomato-Masks/diy-fine-particulate-mask/tree/master/designs/type-1)
+
 **Disclaimer**
 
 This is a ‘Do It Yourself’ open source mask and we are not liable or responsible in regards to its performance or characteristics or how it is used. Build and use this at your own risks. 

@@ -10,7 +10,7 @@ We use science and engineering to research and devleop open source masks that ca
 
 ### Team's Github Repostories:
 
-You can view our Github repository here:
+You can view our Github repositories here:
 [Tomato-Masks](https://github.com/Tomato-Masks)
 
 
