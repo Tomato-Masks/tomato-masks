@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type 1: A \"Do It Yourself\" Fine Particulate Mask"
+title: "Type 1: A DIY Fine Particulate Mask"
 ---
 
 
@@ -18,6 +18,8 @@ td {
 }
 table.dimensions, th.dimensions, td.dimensions {
     border: 1px solid black;
+    max-width: 100%;
+    height: auto;
 }
 th.dimensions, td.dimcol1, td.dimcols{
     padding: 10px;
