@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tomato Masks Type 1: A \"Do It Yourself\" Fine Particulate Mask"
+title: "Type 1: A \"Do It Yourself\" Fine Particulate Mask"
 ---
 
 
@@ -15,6 +15,27 @@ th, td {
 }
 td {
     width:50%;
+}
+table.dimensions, th.dimensions, td.dimensions {
+    border: 1px solid black;
+}
+th.dimensions, td.dimcol1, td.dimcols{
+    padding: 10px;
+    border: 1px solid black;
+}
+tr.dimensions {
+    vertical-align: middle;
+}
+td.dimcol1 {
+    width: 40%;
+    text-align: right;
+    font-weight: bold;
+    vertical-align: middle;
+}
+td.dimcols {
+    width: 20%;
+    text-align: center;
+    vertical-align: middle;
 }
 //width: 400px;
 //height: 301px;
@@ -229,7 +250,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <br>
 <br>
 
-## Inner Layer
+### Inner Layer
 <br>
 In this segment, there are **two options**:
 
@@ -552,31 +573,32 @@ It is now time to check the goodness of fit:
 
 Three sizes are provided for this mask, these are:
 
-<table align="center" style="text-align:left; width: 500">
-  <tr>
-    <td>Size</td>
-    <td>Small</td>
-    <td>Medium</td>
-    <td>Large
-    <br>(Reference)</td>
+<table class="dimensions" align="center">
+  <tr class="dimensions">
+    <td class="dimcol1"><strong>Size</strong></td>
+    <td class="dimcols"><strong>Small</strong></td>
+    <td class="dimcols"><strong>Medium</strong></td>
+    <td class="dimcols"><strong>Large
+    <br>(Reference)</strong></td>
   </tr>
-  <tr>
-    <td>Scale</td>
-    <td>80%</td>
-    <td>90%</td>
-    <td>100%</td>
+  <tr class="dimensions">
+    <td class="dimcol1">Scale</td>
+    <td class="dimcols">80%</td>
+    <td class="dimcols">90%</td>
+    <td class="dimcols">100%</td>
   </tr>
-  <tr>
-    <td>Outer Layer
+  <tr class="dimensions">
+    <td class="dimcol1">Outer Layer
 Dimension Approx.
 <br>
 (Sideburns to Sideburns)</td>
-    <td>184 mm</td>
-    <td>207 mm</td>
-    <td>230 mm</td>
+    <td class="dimcols">184 mm</td>
+    <td class="dimcols">207 mm</td>
+    <td class="dimcols">230 mm</td>
   </tr>
 </table>
-
+<br>
+<br>
 
 ### 2. Design Layout
 
@@ -591,6 +613,7 @@ Dimension Approx.
 <strong>Small Size - Inner Layer</strong>
 </p>
 <br>
+<br>
 
 ##### Outer Layer Dimensions
 
@@ -601,6 +624,7 @@ Dimension Approx.
 <p style="text-align: center;">
 <strong>Small Size - Outer Layer</strong>
 </p>
+<br>
 <br>
 
 #### Medium
@@ -614,6 +638,7 @@ Dimension Approx.
 <strong>Medium Size - Inner Layer</strong>
 </p>
 <br>
+<br>
 
 ##### Outer Layer Dimensions
 
@@ -625,8 +650,10 @@ Dimension Approx.
 <strong>Medium Size - Outer Layer</strong>
 </p>
 <br>
+<br>
 
-### Large
+
+#### Large
 
 
 ##### Inner Layer Dimensions
@@ -638,6 +665,8 @@ Dimension Approx.
 <strong>Large Size - Inner Layer</strong>
 </p>
 <br>
+<br>
+
 
 ##### Outer Layer Dimensions
 
@@ -649,6 +678,8 @@ Dimension Approx.
 <strong>Large Size - Outer Layer</strong>
 </p>
 <br>
+<br>
+
 
 ## 3. Stencils
 
