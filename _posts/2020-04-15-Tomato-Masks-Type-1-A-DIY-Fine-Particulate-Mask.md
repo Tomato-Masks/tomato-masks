@@ -10,28 +10,27 @@ title: "Tomato Masks Type 1: A \"Do It Yourself\" Fine Particulate Mask"
 table, th, td {
   border: 0px solid black;
 }
-
 th, td {
   padding: 10px;
 }
-
-img.tbl {
-  width: 400px;
-  height: 301px;
-  //object-fit: scale-down;
+td {
+    width:50%;
+}
+//width: 400px;
+//height: 301px;
+img.tbl {  
+  max-width:100%;
+  height:auto;
 }
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
     content: "Contents";
     font-weight: bold;
 }
-
-
 // Using numbers instead of bullets for listing
 #markdown-toc ul {
     list-style: decimal;
 }
-
 #markdown-toc {
     border: 1px solid #aaa;
     padding: 1.5em;
@@ -75,9 +74,8 @@ The current design consists of an inner layer and an outer layer, all made out o
 <p style="text-align: center;">
 <strong>Fig 2: Actual - 100% Cotton Fine Particulate Mask</strong>
 </p>
-
-
-
+<br>
+<br>
 
 ### Inner Layer
 
@@ -99,11 +97,12 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 <p style="text-align: center;">
 <strong>Fig 3b: Inner Layer Expanded</strong>
 </p>
+<br>
+<br>
 
 
 
 ### Outer Layer
-
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the first layer and also stabilizes the inner layer.The outer layer has two embedded elastic bands that enable tighter fitting. 
 
 <p align="center">
@@ -113,13 +112,12 @@ The main filtering is done through the outer layer. The outer layer helps  to fu
 <p style="text-align: center;">
 <strong>Fig 4: Outer Layer</strong>
 </p>
-
-
+<br>
+<br>
 
 ## Fabrication Instructions
 
 ### Overview
-
 The building instructions are broken down into:
 
 1. Preparation:
@@ -141,17 +139,19 @@ The building instructions are broken down into:
 4. Total Assembly
 
 5. Filter Installation
+<br>
+<br>
 
 ### Preparation
 
 #### Size Selection
-
 There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes). 
 
 If you have a printer, you can download and print the provided stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils). Otherwise, you can refer to the design diagrams from [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout).
+<br>
+<br>
 
 #### Materials
-
 1. 100% Cotton Fabric
 
     * Use an old (or new) 100% cotton clothing such as a shirt, t-shirt or button shirt:
@@ -191,6 +191,9 @@ If you have a printer, you can download and print the provided stencils from [Ap
     * Knit elastic bands (2x 30 cm long strips + 2 x 60 cm long strips)
 
     * Shoe laces (2x 30 cm long strips + 2 x 60 cm long strips)
+<br>
+<br>
+
 
 #### Tools
 
@@ -199,6 +202,9 @@ If you have a printer, you can download and print the provided stencils from [Ap
 2. Ruler (Only If you cannot print the stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils))
 
 3. Scissors
+<br>
+<br>
+
 
 #### Fitting Mechanism
 
@@ -220,9 +226,11 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <p style="max-width:600px; word-wrap:break-word; margin:0 auto">
 3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. <strong>(Alternatively, if you have knit elastic bands, use them)</strong>
 </p>
+<br>
+<br>
 
 ## Inner Layer
-
+<br>
 In this segment, there are **two options**:
 
 1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer).**
@@ -234,12 +242,12 @@ In this segment, there are **two options**:
 
 <table align="center" style="text-align:left; width: 900">
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl" src="/images/type1v04/v04-inner-12.jpg">
             <br>
             This is the desired outcome.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-inner-1.jpg">
             <br>
             1. Cut the 100% cotton fabric into a rectangle based on the selected size (e.g. Large: 27 cm x 21 cm)
@@ -258,13 +266,13 @@ In this segment, there are **two options**:
         </td>
     </tr>
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl" src="/images/type1v04/v04-inner-4.jpg">
             <br>
             4. Mark a 4 cm x 4 cm square at the corner where the sides are folded.
         </td>
-        <td style="width:400px">
-            <img class="tbl"  src="/images/type1v04/v04-inner-5b.jpg">
+        <td>
+            <img class="tbl"  src="/images/type1v04/v04-inner-5.jpg">
             <br>
             5. Cut the square with a pair of scissors.
         </td>
@@ -332,8 +340,9 @@ In this segment, there are **two options**:
     
 </table>
 <br>
-### Outer Layer
 
+### Outer Layer
+<br>
 In this segment, there are **two options**:
 
 1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
@@ -342,12 +351,12 @@ In this segment, there are **two options**:
 
 <table align="center" style="text-align:left; width: 900">
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl" src="/images/type1v04/v04-12.jpg">
             <br>
-            1. Draw the desired pattern from Appendix 1.2 onto a paper (e.g. letter size). You should have an outer hexagon pattern and an inner hexagon pattern with a gap of 2-2.5 cm.
+            This is the desired outcome.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl" src="/images/type1v04/v04-1.jpg">
             <br>
             1. Draw the desired pattern from Appendix 1.2 onto a paper (e.g. letter size). You should have an outer hexagon pattern and an inner hexagon pattern with a gap of 2-2.5 cm.
@@ -371,14 +380,14 @@ In this segment, there are **two options**:
             <br>
             4. Draw the inner hexagon. You can start by folding along an inner hexagon’s side and drawing a line along it. Then repeat this process one side at the time.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl" src="/images/type1v04/v04-5.jpg">
             <br>
             5. You should be left with a pattern like this. An outer hexagon and an inner hexagon with 2.5 cm gap between the two.
         </td>
     </tr>
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-6.jpg">
             <br>
             6. Cut the fabric along the outer hexagon’s sides.
@@ -427,18 +436,19 @@ In this segment, there are **two options**:
     </tr>
 </table>
 <br>
-### Layer Integration
 
+### Layer Integration
+<br>
 It is time to integrate the two layers:
 
 <table align="center" style="text-align:left; width: 900">
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-13.jpg">
             <br>
             1. Cut out two, 1 cm wide holes, on both left and right sides of the outer shell, midway between top and bottom strips.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-14.jpg">
             <br>
             2. Pass through the two strips from the inner shell on both left and right openings. Please note that the embedded folded aluminum piece should face up and should line up with the paper clip nose clamp of the outer shell.
@@ -450,7 +460,7 @@ It is time to integrate the two layers:
             <br>
             <br>
             <p align="center">
-            <img src="/images/type1v04/fullmask.jpg" width="450px">
+            <img src="/images/type1v04/fullmask.jpg" max-width="450px">
             </p>
             <br>
             In the next step, the secondary filter will be inserted.
@@ -458,8 +468,9 @@ It is time to integrate the two layers:
     </tr>
 </table>
 <br>
-### Disposable Filter Insertion
 
+### Disposable Filter Insertion
+<br>
 Use any of the followings materials:
 <ul>
     <li>Paper towel </li>
@@ -478,6 +489,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <strong width="450px">Fig 5: Paper towel is used as a disposable secondary filter inside the inner layer.</strong>
 </p>
 <br>
+
 ## Wearing Instructions
 <br>
 <p align="center">
@@ -490,7 +502,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <br>
 <table align="center" style="text-align:left; width: 900">
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/fitting-v04-2.jpg">
             <br>
             3. Wrap the top band around the top of your ears.
@@ -499,7 +511,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
             <br>
             5. Wrap the bottom bands so that they go around the back of the neck.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/fitting-v04-3.jpg">
             <br>
             2. Pass through the two strips from the inner shell on both left and right openings. Please note that the embedded folded aluminum piece should face up and should line up with the paper clip nose clamp of the outer shell.
@@ -508,25 +520,25 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 </table>
 
 ## Fit Checking Instructions
-
+<br>
 It is now time to check the goodness of fit:
 <br>
 <table align="center" style="text-align:left; width: 900">
     <tr>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-test-nose-grip-top.jpg">
             <br>
             1. Nose: Ensure tight fitting around the nose area by the outer layer as well as the inner layer. Use the nose clamp and top bands/straps to achieve snug fit.
         </td>
-        <td style="width:400px">
+        <td>
             <img class="tbl"  src="/images/type1v04/v04-test-upper neck.jpg">
             <br>
             2. Jaw Line: Ensure tight fitting just below the jaw line. The bottom bands/straps can be adjusted to achieve snug fit.
         </td>
     </tr>
     <tr>
-        <td style="width:400px">
-            <img class="tbl"  src="/images/type1v04/fitting-v04-2b.jpg">
+        <td>
+            <img class="tbl" src="/images/type1v04/fitting-v04-2.jpg" style="max-width=100%">
             <br>
             3. Sides: Ensure snug fitting through adjustment of middle bands/straps.
         </td>
@@ -534,6 +546,7 @@ It is now time to check the goodness of fit:
 </table>
 
 # Appendix
+<br>
 
 ### 1. Sizes
 
